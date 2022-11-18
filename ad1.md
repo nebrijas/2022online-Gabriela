@@ -7,7 +7,7 @@
 
 ___
 
-El periódico económico y financiero **elDinero**, de origen dominicano, publico el pasado 5 de mayo del 2022 el reportaje de datos [**Descenso de casos positivos por Covid-19 en República Dominicana, ¿final de la pandemia?**](https://eldinero.com.do/195857/descenso-de-casos-positivos-por-covid-19-en-republica-dominicana-final-de-la-pandemia/) que recopila los casos de coronavirus en la república dominicana desde mayo del 2020 hasta abril del 2022 llamado. 
+El periódico económico y financiero **elDinero**, de origen dominicano, publico el pasado 5 de mayo del 2022 el reportaje de datos [Descenso de casos positivos por Covid-19 en República Dominicana, ¿final de la pandemia?](https://eldinero.com.do/195857/descenso-de-casos-positivos-por-covid-19-en-republica-dominicana-final-de-la-pandemia/) que recopila los casos de coronavirus en la república dominicana desde mayo del 2020 hasta abril del 2022 llamado. 
 
 La nota nos presenta los datos del avance de la enfermedad en el país caribeño ofrecidos por el **Ministerio de Salud Pública**, en la cual nos muestra los casos nuevos, activos y la cantidad de fallecidos junto a la taza porcentual de la letalidad de dicha afección.
 
@@ -19,4 +19,4 @@ De la misma forma, en las siguientes barras nos muestran el número de defuncion
 
 Todas estas rotuladas con la fuente base para su elaboración, su autora y la metodología usada para la obtención de los diagramas.  
 
-Además, el reportaje no solo se centra en las representaciones de barra, también nos muestra una pequeña infografía con el flojo del comportamiento, la pandemia en R.D. y un Tuit con el [**Boletín Especial Epidemiológico**](https://coronavirusrd.gob.do/documentos/boletines/), el cual era la forma en que el gobierno compartir la información oficial referente al Covid-19. 
+Además, el reportaje no solo se centra en las representaciones de barra, también nos muestra una pequeña infografía con el flojo del comportamiento, la pandemia en R.D. y un Tuit con el [Boletín Especial Epidemiológico](https://coronavirusrd.gob.do/documentos/boletines/), el cual era la forma en que el gobierno compartir la información oficial referente al Covid-19. 
