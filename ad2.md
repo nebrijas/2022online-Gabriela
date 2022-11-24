@@ -1,1 +1,18 @@
+# Gabriela Castro Inoa
+## ¿Qué tan democrática es República Dominicana frente a otros países de Latinoamérica?
+### [eldinero.com.do](https://eldinero.com.do/)
+
+![Urna de votación](https://149562642.v2.pressablecdn.com/wp-content/uploads/Democracia-750x375.jpg)
+
+Joan Sebastián Vallejo nos comparte a través del portal digital, de origen dominicano, del periódico económico y financiero, elDinero, Un reportaje de datos Titulado [¿Qué tan democrática es República Dominicana frente a otros países de Latinoamérica?](https://eldinero.com.do/208353/que-tan-democratica-es-republica-dominicana-frente-a-otros-paises-de-latinoamerica/) y publicado el 16 de septiembre del 2022, en donde nos explica detalladamente mediante distintos medios de visualización de datos **el índice de democracia que existen Latinoamérica y los niveles de la misma que posee cada nación**.
+
+En la publicación nos muestra con tablas, mapas y barras horizontales la puntuación que presenta cada país de la región en el área del sufragismo para el año 2020, todas estas basadas en la medida de democracia de **Economist Intelligence Unit (EIU)**. Las mismas fueron creadas con la herramienta online [Flourish](https://flourish.studio/), que nos permita crear estos soportes visuales y compartirlos con posibilidad de edición solo en esta plataforma.
+
+En la primera visualización, podemos ver una lista de los países latinos organizados de mayor a menor según sus índices de democracia. Estos indicadores se dividen en 5 categorías que valoran el proceso electoral, el funcionamiento del gobierno, la participación política, la cultura política y las libertades civiles, diferenciados por color. Esta es de tipo *stocked bar chart* que, en ocasiones, como es el caso, son más complicadas de comprender por sus diversos datos y su forma de organizarlo, pues, aunque se vea de forma estética, el que todas las líneas sean del mismo tamaño puede dificultar su lectura, entendimiento y la verdadera magnitud de la información que queremos retratar.
+
+Esta lista esta encabezada por Uruguay que presenta un proceso de liberta y pluralismo de un diez de diez, un funcionamiento del gobierno de un 8.57, una participación política de 7.22, una cultura política de 8.75 y un 9.71 en las libertades civiles de los ciudadanos uruguayos. En las posiciones siguientes tenemos a Costa Rica, Chile, Trinidad and Tobago y Jamaica. **Mientras que nuestro lado de la isla posee un 9.17 en pluralismo, un 5 en funcionamiento del gobierno, 6.67 en participación política, un bajo nivel de 4.38 en nuestra cultura política y un decente, pero mejorable, 7.06 en las libertades civiles**.  
+
+En el mapa de la nota periodística podemos apreciar a través de colores y *tags*, que emergen al pasar sobre cada país, la situación democrática que existe en ellos. Según sus puntuaciones en cada nivel evaluado en la gráfica de barras anteriormente mencionada, estos pueden estar en un estado de autoritarismo, de deficiencia, híbridos o plenos en este tipo de libertades. Por lo que este planisferio en casi su totalidad de azul y con solo dos patrias en color verde, **representando un estado pleno, nos deja muy claro lo defectuosa que es nuestra democracia a todo lo largo de la región**.
+
+Otro medio de visualización de información que posee el artículo es una simple, pero muy funcional tabla en donde podemos observar los países, sus puntuaciones generales, su posición a nivel mundial y su rango dentro de la región evaluada. Que posiciona a **la República Dominicana en el número 11** de los 24 lugares de la región.  
 
