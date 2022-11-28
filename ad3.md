@@ -2,7 +2,7 @@
 ## Ejercicio Python para lograr un sraping de una web
 
 A Continuación trabajaremos en **la actividad 3**, en la cual elaboraremos un ejercicio *Scraping* Web a través del lenguaje de programación Python.
-(Archivo)[docs/Ad3.ipynb]
+[Archivo](docs/Ad3.ipynb)
 Para iniciar a trabajar debemos tener el código fuente
 
 
