@@ -1,6 +1,6 @@
 # Uso De la API del Covid-19 con Pandas
 
-en esta practica vamos a utilizar **"Pandas"**, la librería de Phyton, para trabjar sobre los datos del Covid y analizarlos.
+en esta practica vamos a utilizar **"Pandas"**, la librería de [Phyton](docs/ad4.ipynb), para trabjar sobre los datos del Covid y analizarlos.
 
 La URL: https://api.covid19api.com/countries
 
