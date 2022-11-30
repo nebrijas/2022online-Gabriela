@@ -2,7 +2,7 @@
 ## ¿Qué tan democrática es República Dominicana frente a otros países de Latinoamérica?
 
 
-![Urna de votación](https://149562642.v2.pressablecdn.com/wp-content/uploads/Democracia-750x375.jpg)
+![protesta en la Plaza de la Bandera frente a la JCE en la República Dominicana](https://rosemarynews.com/wp-content/uploads/sites/55/2020/02/Protestas-en-La-Bandera.jpg)
 
 ***
 
