@@ -1,6 +1,6 @@
 # Gabriela Castro Inoa
 ## ¿Qué tan democrática es República Dominicana frente a otros países de Latinoamérica?
-### [eldinero.com.do](https://eldinero.com.do/)
+
 
 ![Urna de votación](https://149562642.v2.pressablecdn.com/wp-content/uploads/Democracia-750x375.jpg)
 
@@ -11,6 +11,10 @@ Joan Sebastián Vallejo nos comparte a través del portal digital, de origen dom
 En la publicación nos muestra con tablas, mapas y barras horizontales la puntuación que presenta cada país de la región en el área del sufragismo para el año 2020, todas estas basadas en la medida de democracia de **Economist Intelligence Unit (EIU)**. Las mismas fueron creadas con la herramienta online [Flourish](https://flourish.studio/), que nos permita crear estos soportes visuales y compartirlos con posibilidad de edición solo en esta plataforma.
 
 En la [primera visualización](https://public.flourish.studio/visualisation/11205434/?utm_source=showcase&utm_campaign=visualisation/11205434), podemos ver una lista de los países latinos organizados de mayor a menor según sus índices de democracia. Estos indicadores se dividen en 5 categorías que valoran el proceso electoral, el funcionamiento del gobierno, la participación política, la cultura política y las libertades civiles, diferenciados por color. Esta es de tipo *stocked bar chart* que, en ocasiones, como es el caso, son más complicadas de comprender por sus diversos datos y su forma de organizarlo, pues, aunque se vea de forma estética, el que todas las líneas sean del mismo tamaño puede dificultar su lectura, entendimiento y la verdadera magnitud de la información que queremos retratar.
+
+<div class="flourish-credit" style="width:100%!important;margin:0 0 4px!important;text-align:right!important;font-family:Helvetica,sans-serif!important;color:#888!important;font-size:11px!important;font-weight:bold!important;font-style:normal!important;-webkit-font-smoothing:antialiased!important;box-shadow:none!important;"><a href="https://public.flourish.studio/visualisation/11205434/?utm_source=showcase&amp;utm_campaign=visualisation/11205434" target="_top" style="display:inline-block!important;text-decoration:none!important;font:inherit!important;color:inherit!important;border:none!important;margin:0 5px!important;box-shadow:none!important;"><img alt="Flourish logo" src="https://public.flourish.studio/resources/bosh.svg" style="font:inherit!important;width:auto!important;height:12px!important;border:none!important;margin:0 2px 0!important;vertical-align:middle!important;display:inline-block!important;box-shadow:none!important;"><span style="font:inherit!important;color:#888!important;vertical-align:middle!important;display:inline-block!important;box-shadow:none!important;">A Flourish data visualization</span></a></div>
+
+
 
 Esta lista esta encabezada por Uruguay que presenta un proceso de liberta y pluralismo de un diez de diez, un funcionamiento del gobierno de un 8.57, una participación política de 7.22, una cultura política de 8.75 y un 9.71 en las libertades civiles de los ciudadanos uruguayos. En las posiciones siguientes tenemos a Costa Rica, Chile, Trinidad and Tobago y Jamaica. **Mientras que nuestro lado de la isla posee un 9.17 en pluralismo, un 5 en funcionamiento del gobierno, 6.67 en participación política, un bajo nivel de 4.38 en nuestra cultura política y un decente, pero mejorable, 7.06 en las libertades civiles**.  
 
