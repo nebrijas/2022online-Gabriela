@@ -1,9 +1,9 @@
 
 # Gabriela Castro Inoa
 ## Descenso de casos positivos por Covid-19 en República Dominicana, ¿final de la pandemia?
-### [eldinero.com.do](https://eldinero.com.do/)
 
-![Ministerio de Salud Pública](https://hospitalciudadjuanbosch.gob.do/wp-content/uploads/2020/05/FACHADA-DEL-MSP-1-3-960x637.jpg)
+
+![Ministerio de Salud Pública de la República Dominicana](https://hospitalciudadjuanbosch.gob.do/wp-content/uploads/2020/05/FACHADA-DEL-MSP-1-3-960x637.jpg)
 
 ___
 
@@ -15,7 +15,15 @@ Esta información se encuentra acompañada de varias gráficas que representan d
 
 En el primer gráfico de barras los datos presentes nos muestran él sube y baja de los casos reportados del **SARS-CoV-2**, esto divididos en colores para diferenciar mejor el mes y año en que fue alcanzada la cifra. Y aunque el título del diagrama es muy explicativo, los autores añadieron un elemento visual de una familia protegiéndose del icónico virus. 
 
+
+![Casos Registrados de Covid-19 en República Dominicana 2020-2022](https://149562642.v2.pressablecdn.com/wp-content/uploads/casos-registrados-de-covid-19-en-republica-dominicana.jpg)
+
+
 De la misma forma, en las siguientes barras nos muestran el número de defunciones y las recuperaciones, en la tercera, por mes ocurridas en el país, clasificados anualmente por color y con una imagen alusiva a la temática. Una ilustración alusiva a una hospitalización, el cual en la mayoría de los casos simbolizaba la etapa fatal y sin retorno de los afectados, y una imagen alusiva a un escudo evocando la rehabilitación de los contagiados.
+
+
+![Defunciones Registradas por Covid-19 en República Dominicana 2020-2022](https://149562642.v2.pressablecdn.com/wp-content/uploads/defunciones-mensuales-por-covid-19-en-Republica-Dominicana-750x354.jpg)
+
 
 Todas estas rotuladas con la fuente base para su elaboración, su autora y la metodología usada para la obtención de los diagramas.  
 
