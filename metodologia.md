@@ -5,5 +5,5 @@ En el transcurso de las clases de Datos II nos adentramos en un mundo totalmente
 
 Estas herramientas antes mencionadas fueron de vital importancia la construcción de esta página web, que aunque un poco minimalista, si se puede decir así posee las actividades trabajadas durante la materia. 
 
-El proceso de creación inicio creando una cuenta, la plataforma *GitHub* la cual nos sirvió para alojar y crear nuestro proyecto. Este programa es utilizado para la colaboración en proyectos de código abierta, creación de páginas web, para la creación de códigos fuente, entre otros proyectos digitales. 
+El proceso de creación inicio creando una cuenta, la plataforma **GitHub** la cual nos sirvió para alojar y crear nuestro proyecto. Este programa es utilizado para la colaboración en proyectos de código abierta, creación de páginas web, para la creación de códigos fuente, entre otros proyectos digitales. 
 
