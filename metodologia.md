@@ -6,9 +6,9 @@ En el transcurso de las clases de **Datos II** nos adentramos en un mundo totalm
 
 Estas herramientas antes mencionadas fueron de vital importancia el desarrollo de las diferentes prácticas. 
 
-Pero una de ellas resalta frente a las demás, GitHub, la cual fue de vital importancia para construcción de esta página web, que aunque un poco minimalista, si se puede decir así posee las actividades trabajadas durante la materia.
+Pero una de ellas resalta frente a las demás, **GitHub**, la cual fue de vital importancia para construcción de esta página web, que aunque un poco minimalista, si se puede decir así posee las actividades trabajadas durante la materia.
 
-De acuerdo a lo planteado por la página [developer.mozilla](https://developer.mozilla.org/), GitHub es una plataforma online de *social coding* que permite subir repositorios de código almacenarlo en el sistema de control de versiones Git.
+De acuerdo a lo planteado por la página [developer.mozilla](https://developer.mozilla.org/), **GitHub** es una plataforma online de *social coding* que permite subir repositorios de código almacenarlo en el sistema de control de versiones Git.
 
 Para crear esta página tuve que agotar un pequeño y fácil proceso:
 - Entre a la página y me registre con mi mail 
